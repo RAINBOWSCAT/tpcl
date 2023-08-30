@@ -4,10 +4,10 @@
   <a href="mailto:whitecat.this@gmail.com">
     <img src="https://img.shields.io/badge/AUTHOR-RAINBOWSCAT-brightgreen" alt="AUTHOR">
   </a>
-  <a href="https://github.com/Cloudwhile/TPCL/releases/latest">
+  <a href="https://github.com/rainbowscat/TPCL/releases/latest">
     <img src="https://img.shields.io/badge/VERSION-v0.0.1.8672_Alpha.1-ff69b4" alt="Latest Download">
   </a>
-  <a href="https://github.com/Cloudwhile/TPCL/blob/master/LICENSE">
+  <a href="https://github.com/rainbowscat/TPCL/blob/master/LICENSE">
     <img src="https://img.shields.io/badge/LICENSE-Apache_2.0-blue" alt="LICENSE">
   </a>
 </div>
@@ -27,7 +27,7 @@
       Description
     </a>
     <span> | </span>
-    <a href="https://github.com/Cloudwhile/TPCL/releases/tag/v0.0.1.6001-Alpha.1">
+    <a href="https://github.com/rainbowscat/TPCL/releases/tag/v0.0.1.6001-Alpha.1">
       Downloads
     </a>
      <span> | </span>
@@ -38,7 +38,7 @@
   <sub>
     Available for Windows.
     <br>
-    <a href="https://github.com/Cloudwhile/TPCL/">en-us</a> | <a href="https://github.com/Cloudwhile/TPCL/blob/master/zh-cn">中文</a>
+    <a href="https://github.com/rainbowscat/TPCL/">en-us</a> | <a href="https://github.com/rainbowscat/TPCL/blob/master/zh-cn">中文</a>
 </sub>
 </div>
 
